@@ -1,44 +1,38 @@
-# 01 HTML CSS Git: Code Refactor
+# Challenge Description
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+This challenge, assigned by Rutgers Coding Bootcamp, required the refactoring of an existing website "Horiseon". The goal fo this activity was to make the website more accessible and improve search engine optimization.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+# Code Updates
 
-> Always leave the code you are editing a little cleaner than you found it.
+The following updates were included in the html and css code files:
+* Include semantic HTML elements
+* Improve flow of elements in html and css
+* Include alt attributes for images
+* Include descriptive comments
+* Include website title
+* Eliminate redundancies in css
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+# Website Screenshots
 
-## User Story
+![Top of website: Header & Hero](https://user-images.githubusercontent.com/81491306/116012668-eb6a8b00-a5f9-11eb-93a3-3462a844d6a5.jpg)
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+![Middle of website: SEO, Online Rep Management, Lead Generation & Brand Awareness](https://user-images.githubusercontent.com/81491306/116012683-0e953a80-a5fa-11eb-856d-d91af56787a6.jpg)
 
-## Acceptance Criteria
+![Bottom of website: Social Media Marketing, Cost Management & Footer](https://user-images.githubusercontent.com/81491306/116012698-32588080-a5fa-11eb-9b6a-ce451e744df3.jpg)
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+# About Me
 
-## Review
+I am a Systems Engineer working at a medical device company. Currently, working on device design and development, eager to learn about the software side of the process.
 
-You are required to submit the following for review:
+# Links
+## Website
+[Link to Website](https://lchinquee.github.io/everfied/)
 
-* The URL of the deployed application.
+## GitHub Repo
+[Link to GitHub Repo](https://github.com/lchinquee/everfied)
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+# References
 
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Rutgers Coding Bootcamp class materials and TA resources.
+
+
